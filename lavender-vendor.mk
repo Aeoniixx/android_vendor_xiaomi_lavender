@@ -857,7 +857,6 @@ PRODUCT_PACKAGES += \
     libmmcamera_arcsoftbokeh_lib \
     libmmcamera_atmel_at24c32e_eeprom \
     libmmcamera_bokeh \
-    libmmcamera_dbg \
     libmmcamera_depth_map \
     libmmcamera_dummyalgo \
     libmmcamera_eebinparse \
