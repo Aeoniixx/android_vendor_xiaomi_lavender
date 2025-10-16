@@ -963,6 +963,8 @@ PRODUCT_PACKAGES += \
     libremosaic_daemon \
     libsymphony-cpu \
     libsymphonypower \
+    libts_detected_face_hal \
+    libts_face_beautify_hal \
     libvideoutils \
     libvidhance \
     libvidhance_gyro \
