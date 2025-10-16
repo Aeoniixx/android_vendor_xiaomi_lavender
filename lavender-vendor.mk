@@ -100,7 +100,6 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     android.hardware.gatekeeper@1.0-impl-qti \
     libqtikeymaster4 \
-    libMegviiFacepp-0.5.2 \
     libSNPE \
     libSonyIMX376C3RmscLibrary \
     libSonyIMX376KRmscLibrary \
